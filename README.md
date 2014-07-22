@@ -1,3 +1,5 @@
+[![ascend MyGet Build Status](https://www.myget.org/BuildSource/Badge/ascend?identifier=bba86624-b8cc-4a25-b7ed-ce127fe8da30)](https://www.myget.org/)
+
 ##What is GeoJSON.NET
 GeoJSON is .NET library for the GeoJSON spec v1.0 (see http://geojson.org/geojson-spec.html), it uses Newtonsoft Json.NET (http://json.codeplex.com) for serialization and deserialization.
 
